@@ -1,0 +1,14 @@
+{
+    "state name:": "HI",
+    "average_daily_cases": 77.78,
+    "highest_case_date": "August 19, 2020",
+    "most_recent_no_case_date": "August 26, 2020",
+    "highest_case_month": {
+        "month_year": "August 2020",
+        "cases": 6350
+    },
+    "lowest_case_month": {
+        "month_year": "May, 2020",
+        "cases": 38
+    }
+}

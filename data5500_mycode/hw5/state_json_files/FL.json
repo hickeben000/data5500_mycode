@@ -1,0 +1,14 @@
+{
+    "state name:": "FL",
+    "average_daily_cases": 4725.76,
+    "highest_case_date": "January 02, 2021",
+    "most_recent_no_case_date": "January 01, 2021",
+    "highest_case_month": {
+        "month_year": "January 2021",
+        "cases": 389172
+    },
+    "lowest_case_month": {
+        "month_year": "February, 2020",
+        "cases": 0
+    }
+}

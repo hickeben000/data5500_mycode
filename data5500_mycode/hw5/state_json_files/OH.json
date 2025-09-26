@@ -1,0 +1,14 @@
+{
+    "state name:": "OH",
+    "average_daily_cases": 2658.89,
+    "highest_case_date": "December 08, 2020",
+    "most_recent_no_case_date": "January 01, 2021",
+    "highest_case_month": {
+        "month_year": "December 2020",
+        "cases": 279317
+    },
+    "lowest_case_month": {
+        "month_year": "March, 2020",
+        "cases": 2199
+    }
+}

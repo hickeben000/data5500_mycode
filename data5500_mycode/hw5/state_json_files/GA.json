@@ -1,0 +1,14 @@
+{
+    "state name:": "GA",
+    "average_daily_cases": 2773.67,
+    "highest_case_date": "November 03, 2020",
+    "most_recent_no_case_date": "March 06, 2020",
+    "highest_case_month": {
+        "month_year": "January 2021",
+        "cases": 242993
+    },
+    "lowest_case_month": {
+        "month_year": "March, 2020",
+        "cases": 3927
+    }
+}

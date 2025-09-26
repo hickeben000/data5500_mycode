@@ -1,0 +1,14 @@
+{
+    "state name:": "VI",
+    "average_daily_cases": 7.6,
+    "highest_case_date": "January 17, 2021",
+    "most_recent_no_case_date": "March 07, 2021",
+    "highest_case_month": {
+        "month_year": "August 2020",
+        "cases": 728
+    },
+    "lowest_case_month": {
+        "month_year": "May, 2020",
+        "cases": 3
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "state name:": "WV",
+    "average_daily_cases": 363.61,
+    "highest_case_date": "January 01, 2021",
+    "most_recent_no_case_date": "March 17, 2020",
+    "highest_case_month": {
+        "month_year": "December 2020",
+        "cases": 37492
+    },
+    "lowest_case_month": {
+        "month_year": "March, 2020",
+        "cases": 162
+    }
+}

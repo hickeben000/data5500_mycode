@@ -1,0 +1,14 @@
+{
+    "state name:": "PR",
+    "average_daily_cases": 284.67,
+    "highest_case_date": "January 08, 2021",
+    "most_recent_no_case_date": "June 01, 2020",
+    "highest_case_month": {
+        "month_year": "December 2020",
+        "cases": 23746
+    },
+    "lowest_case_month": {
+        "month_year": "March, 2020",
+        "cases": 234
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "state name:": "MP",
+    "average_daily_cases": 0.41,
+    "highest_case_date": "February 21, 2021",
+    "most_recent_no_case_date": "March 06, 2021",
+    "highest_case_month": {
+        "month_year": "October 2020",
+        "cases": 22
+    },
+    "lowest_case_month": {
+        "month_year": "March, 2021",
+        "cases": 2
+    }
+}

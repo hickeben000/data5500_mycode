@@ -1,0 +1,14 @@
+{
+    "state name:": "ME",
+    "average_daily_cases": 125.12,
+    "highest_case_date": "January 02, 2021",
+    "most_recent_no_case_date": "January 24, 2021",
+    "highest_case_month": {
+        "month_year": "January 2021",
+        "cases": 15123
+    },
+    "lowest_case_month": {
+        "month_year": "March, 2020",
+        "cases": 303
+    }
+}

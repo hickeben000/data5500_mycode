@@ -1,0 +1,14 @@
+{
+    "state name:": "TN",
+    "average_daily_cases": 2125.56,
+    "highest_case_date": "January 02, 2021",
+    "most_recent_no_case_date": "March 07, 2021",
+    "highest_case_month": {
+        "month_year": "December 2020",
+        "cases": 212309
+    },
+    "lowest_case_month": {
+        "month_year": "March, 2020",
+        "cases": 2238
+    }
+}

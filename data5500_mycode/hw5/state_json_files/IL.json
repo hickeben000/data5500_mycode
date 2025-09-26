@@ -1,0 +1,14 @@
+{
+    "state name:": "IL",
+    "average_daily_cases": 3247.51,
+    "highest_case_date": "November 13, 2020",
+    "most_recent_no_case_date": "March 11, 2020",
+    "highest_case_month": {
+        "month_year": "November 2020",
+        "cases": 309745
+    },
+    "lowest_case_month": {
+        "month_year": "March, 2020",
+        "cases": 5990
+    }
+}

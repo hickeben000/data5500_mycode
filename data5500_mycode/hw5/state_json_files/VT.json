@@ -1,0 +1,14 @@
+{
+    "state name:": "VT",
+    "average_daily_cases": 43.47,
+    "highest_case_date": "January 02, 2021",
+    "most_recent_no_case_date": "January 01, 2021",
+    "highest_case_month": {
+        "month_year": "January 2021",
+        "cases": 4553
+    },
+    "lowest_case_month": {
+        "month_year": "May, 2020",
+        "cases": 115
+    }
+}

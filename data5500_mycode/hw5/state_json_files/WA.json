@@ -1,0 +1,14 @@
+{
+    "state name:": "WA",
+    "average_daily_cases": 820.31,
+    "highest_case_date": "January 04, 2021",
+    "most_recent_no_case_date": "March 01, 2021",
+    "highest_case_month": {
+        "month_year": "January 2021",
+        "cases": 69267
+    },
+    "lowest_case_month": {
+        "month_year": "January, 2020",
+        "cases": 2
+    }
+}

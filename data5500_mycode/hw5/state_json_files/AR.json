@@ -1,0 +1,14 @@
+{
+    "state name:": "AR",
+    "average_daily_cases": 885.06,
+    "highest_case_date": "January 01, 2021",
+    "most_recent_no_case_date": "November 14, 2020",
+    "highest_case_month": {
+        "month_year": "January 2021",
+        "cases": 70130
+    },
+    "lowest_case_month": {
+        "month_year": "March, 2020",
+        "cases": 523
+    }
+}

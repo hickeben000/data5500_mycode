@@ -1,0 +1,14 @@
+{
+    "state name:": "OK",
+    "average_daily_cases": 1172.12,
+    "highest_case_date": "January 03, 2021",
+    "most_recent_no_case_date": "January 01, 2021",
+    "highest_case_month": {
+        "month_year": "January 2021",
+        "cases": 98536
+    },
+    "lowest_case_month": {
+        "month_year": "March, 2020",
+        "cases": 564
+    }
+}

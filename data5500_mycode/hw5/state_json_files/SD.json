@@ -1,0 +1,14 @@
+{
+    "state name:": "SD",
+    "average_daily_cases": 310.35,
+    "highest_case_date": "November 27, 2020",
+    "most_recent_no_case_date": "January 01, 2021",
+    "highest_case_month": {
+        "month_year": "November 2020",
+        "cases": 34472
+    },
+    "lowest_case_month": {
+        "month_year": "March, 2020",
+        "cases": 108
+    }
+}

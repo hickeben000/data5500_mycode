@@ -1,0 +1,14 @@
+{
+    "state name:": "ND",
+    "average_daily_cases": 274.29,
+    "highest_case_date": "November 14, 2020",
+    "most_recent_no_case_date": "January 01, 2021",
+    "highest_case_month": {
+        "month_year": "November 2020",
+        "cases": 36485
+    },
+    "lowest_case_month": {
+        "month_year": "March, 2020",
+        "cases": 117
+    }
+}

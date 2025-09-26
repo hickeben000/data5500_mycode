@@ -1,0 +1,14 @@
+{
+    "state name:": "MN",
+    "average_daily_cases": 1335.18,
+    "highest_case_date": "November 28, 2020",
+    "most_recent_no_case_date": "January 01, 2021",
+    "highest_case_month": {
+        "month_year": "November 2020",
+        "cases": 170291
+    },
+    "lowest_case_month": {
+        "month_year": "March, 2020",
+        "cases": 915
+    }
+}

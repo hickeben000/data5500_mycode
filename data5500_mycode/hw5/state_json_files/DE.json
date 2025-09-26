@@ -1,0 +1,14 @@
+{
+    "state name:": "DE",
+    "average_daily_cases": 240.75,
+    "highest_case_date": "January 07, 2021",
+    "most_recent_no_case_date": "September 11, 2020",
+    "highest_case_month": {
+        "month_year": "December 2020",
+        "cases": 21802
+    },
+    "lowest_case_month": {
+        "month_year": "March, 2020",
+        "cases": 319
+    }
+}

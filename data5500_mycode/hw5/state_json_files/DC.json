@@ -1,0 +1,14 @@
+{
+    "state name:": "DC",
+    "average_daily_cases": 112.55,
+    "highest_case_date": "December 27, 2020",
+    "most_recent_no_case_date": "December 25, 2020",
+    "highest_case_month": {
+        "month_year": "January 2021",
+        "cases": 7889
+    },
+    "lowest_case_month": {
+        "month_year": "March, 2020",
+        "cases": 495
+    }
+}

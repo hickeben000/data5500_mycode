@@ -1,0 +1,14 @@
+{
+    "state name:": "WY",
+    "average_daily_cases": 147.22,
+    "highest_case_date": "November 23, 2020",
+    "most_recent_no_case_date": "March 07, 2021",
+    "highest_case_month": {
+        "month_year": "November 2020",
+        "cases": 20007
+    },
+    "lowest_case_month": {
+        "month_year": "March, 2020",
+        "cases": 109
+    }
+}

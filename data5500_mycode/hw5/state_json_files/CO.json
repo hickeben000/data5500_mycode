@@ -1,0 +1,14 @@
+{
+    "state name:": "CO",
+    "average_daily_cases": 1183.2,
+    "highest_case_date": "November 13, 2020",
+    "most_recent_no_case_date": "March 15, 2020",
+    "highest_case_month": {
+        "month_year": "November 2020",
+        "cases": 125555
+    },
+    "lowest_case_month": {
+        "month_year": "March, 2020",
+        "cases": 2964
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "state name:": "NV",
+    "average_daily_cases": 804.86,
+    "highest_case_date": "January 07, 2021",
+    "most_recent_no_case_date": "March 06, 2021",
+    "highest_case_month": {
+        "month_year": "December 2020",
+        "cases": 72562
+    },
+    "lowest_case_month": {
+        "month_year": "March, 2020",
+        "cases": 1112
+    }
+}

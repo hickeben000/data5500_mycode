@@ -1,0 +1,14 @@
+{
+    "state name:": "LA",
+    "average_daily_cases": 1185.2,
+    "highest_case_date": "January 06, 2021",
+    "most_recent_no_case_date": "March 06, 2021",
+    "highest_case_month": {
+        "month_year": "January 2021",
+        "cases": 85351
+    },
+    "lowest_case_month": {
+        "month_year": "March, 2021",
+        "cases": 3685
+    }
+}

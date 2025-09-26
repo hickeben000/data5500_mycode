@@ -1,0 +1,14 @@
+{
+    "state name:": "MI",
+    "average_daily_cases": 1763.6,
+    "highest_case_date": "November 27, 2020",
+    "most_recent_no_case_date": "March 07, 2021",
+    "highest_case_month": {
+        "month_year": "November 2020",
+        "cases": 191536
+    },
+    "lowest_case_month": {
+        "month_year": "June, 2020",
+        "cases": 7160
+    }
+}
