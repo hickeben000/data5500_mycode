@@ -1,0 +1,35 @@
+Hard: (Essay, 7 points)
+
+3. Explain the process of deleting a node from a binary search tree in Python. 
+Discuss how you would handle different cases, such as deleting a node with one, 
+or two children. Additionally, explain any potential challenges or edge cases that 
+may arise during the deletion process and how you would address them. 
+
+
+There are 3 potiental cases when deleting a node:
+
+1. It's a leaf node with no children so you simply delete the node.
+
+2. The node has one child, so the child takes the spot of the parent. 
+
+3. If the node has two children you either take the smallest value on the right side
+    and replace the deleted node or use the largest value from the left side to 
+    replace it.
+
+When deleting a node with one child, python should automatically move up the child, 
+keeping it from becoming an orphan, but if it doesn't you'll have to move up the child
+manually. 
+
+When deleting duplicate values delete the second duplicate value so it's children can 
+simply move up. 
+
+
+
+
+ChatGPT prompts: 
+here's a screenshot of a binary tree. From what i understand, 
+to delete a node on the right you take the smallest node in the right subtree 
+and replace it. So if you deleted 5 you would replace it with 6 but then 7 
+would become an orphan. am i understanding how to delete nodes correctly?
+
+show me a bst with duplicate values
